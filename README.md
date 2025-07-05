@@ -13,11 +13,12 @@ I'm an aspiring tech enthusiast who’s diving deep into the world of AI and dat
 
 
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iwacooy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwacooy&layout=compact&theme=algolia" />
+### Github Statistic
+<p align="left">
+<a href="https://github.com/iwacooy">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iwacooy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iwacooy&layout=compact&layout=compact&theme=algolia"/>
+</a>
 </p>
 
 <!-- Optional: Add GitHub trophies for extra flair -->
